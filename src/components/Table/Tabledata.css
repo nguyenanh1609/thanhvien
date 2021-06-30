@@ -1,0 +1,9 @@
+.table__overFlow {
+  overflow: auto;
+  height: 337px;
+  border: 1px solid black;
+  padding:5px;
+}
+.table__data{
+    margin: 0px;
+}
